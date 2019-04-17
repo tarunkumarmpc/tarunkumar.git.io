@@ -8,9 +8,9 @@ height: 100%; width: 100%;}
 .my-name{font-weight:500;color:white;font-size: 3.5em;text-align: center;margin: -1em;}
 			 
 .my-pic{height: 25em;width: 25em;border: 0.2em solid #ffffff; border-radius: 10%;display: block; margin-left: auto; margin-right: auto;}
-@font-face{font-family: simplifica; src: url("../css/simp.ttf");}
+@font-face{font-family: simplifica; src: url(".simp.ttf");}
 .simp{font-family: simplifica !important;}
-@font-face{font-family: Roboto; src: url("../css/roboto.ttf");}.roboto{font-family: Roboto !important;}
+@font-face{font-family: Roboto; src: url("roboto.ttf");}.roboto{font-family: Roboto !important;}
 .contact{text-align: center;word-spacing: 50px;font-size: 2.5em;}
 .contact1{text-align: center;word-spacing: 50px;font-size: 2.5em;color: white;}
 .contact-body{background-color: black;width: 100%;height:auto;}
